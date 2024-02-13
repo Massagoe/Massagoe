@@ -9,8 +9,8 @@ I'm an Accountant hoping to be a Data Scientist and will love to interact with o
 * 🌍  I'm based in Aldan, Pennsylvania
 * 🖥️  See my portfolio at [MyPortfolio](http://invisionhs.org)
 * ✉️  You can contact me at [goemuta@yahoo.com](mailto:goemuta@yahoo.com)
-* 🚀  I'm currently working on [to become a Data Scientist.](http://ztm.com)
-* 🧠  I'm learning Data Science
+* 🚀  I'm currently working on [to become a Data Scientist.](http://codecademy.com )
+* 🧠  I'm learning Data Science @ codecademy.com & Udemy.com
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm a Liberian from Africa
 
